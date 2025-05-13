@@ -55,4 +55,3 @@ MIT
 
 ---
 
-Replace `https://github.com/username/repository-name.git` with your actual repo link. Let me know if you want to auto-generate it from your current folder.
